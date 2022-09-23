@@ -83,3 +83,13 @@ The compiler has Four Main steps:
 
 If you included a header file such as `#include <stdio.h>`, it will look for the `stdio.h` file and copy the header file into the source code file.
 The preprocessor also generates macro code and replaces symbolic constants defined using `#define` with their values.
+
+*Compiling*
+
+After the code has been preprocessed the compiler takes the ouput data and goes through a few phases
+```
+1. Lexical analysis; the process of converting a sequence of characters into a sequence of tokens
+
+2. Parsing; the process of analyzing a string of symbols, either in natural language, computer languages or data structures, kinda like grammar for programming languages
+
+3. Semantic analysis; the process of gathering necessary semantic information from the source code and type checking
