@@ -15,7 +15,9 @@ The preprocessor is a program that processes its input data to produce output th
 
 *Functions*
 
-The Second line of code we see is `int main()`, is defining a function named `main()` which is needed for every C/C++ file to compile & link. The `()` is meant for arguments; `int main(int argc, char * argv[])`.  The `int` of this function is the return type of the function, so when the code is ran it must return an integer if it doesnt return an integer a error will be raised which you can avoid via code with the `return` keyword, you may also see this being called exit code;
+The Second line of code we see is `int main()`, is defining a function named `main()` which is needed for every C/C++ file to compile & link. The `()` is meant for arguments; `int main(int argc, char * argv[])`.
+
+The `int` of this function is the return type of the function, so when the code is ran it must return an integer if it doesnt return an integer a error will be raised which you can avoid via code with the `return` keyword, you may also see this being called exit code;
 
 ```cpp
 #include <iostream>
