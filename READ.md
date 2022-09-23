@@ -95,6 +95,12 @@ After the code has been preprocessed the compiler takes the ouput data and goes 
 3. Semantic analysis; the process of gathering necessary semantic information from the source code and type checking
 ```
 
-*Assembling*
+*Assembling & Linking*
 
-The assembler will convert the assembly code into pure binary code or machine code (zeros and ones). This code is also known as object code
+The assembler will convert the assembly code into pure binary code or machine code (zeros and ones). This code is also known as object code.
+
+The Linker will then link the object code from multiple objects into one
+
+*Execution*
+
+You then run the binary file; `./<filename>` `<filename>.exe` in the terminal
