@@ -43,3 +43,18 @@ Now lets break this code down, `std` is a namespace, there are many namespaces. 
 
 *NOTE:* `cout` uses the `write()` system call in linux systems
 
+
+
+**Comments**
+
+A comment is a way to put arbitrary text inside source code without having the C++ compiler interpret it with any
+functional meaning. Comments are used to give insight into the design or method of a program.
+
+```
+// This is a single-line comment
+
+/*
+* This is a block or multi-line comment.
+*/
+```
+
