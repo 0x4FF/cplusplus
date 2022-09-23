@@ -87,6 +87,11 @@ The preprocessor also generates macro code and replaces symbolic constants defin
 *Compiling*
 
 After the code has been preprocessed the compiler takes the ouput data and goes through a few phases
+
+How to compile:
+
+```
+gcc <filename>.cpp -o <outputname>
 ```
 1. Lexical analysis; the process of converting a sequence of characters into a sequence of tokens
 
