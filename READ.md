@@ -93,3 +93,8 @@ After the code has been preprocessed the compiler takes the ouput data and goes 
 2. Parsing; the process of analyzing a string of symbols, either in natural language, computer languages or data structures, kinda like grammar for programming languages
 
 3. Semantic analysis; the process of gathering necessary semantic information from the source code and type checking
+```
+
+*Assembling*
+
+The assembler will convert the assembly code into pure binary code or machine code (zeros and ones). This code is also known as object code
