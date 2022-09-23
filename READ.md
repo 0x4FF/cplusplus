@@ -57,4 +57,7 @@ functional meaning. Comments are used to give insight into the design or method 
   * This is a block or multi-line comment.
 */
 ```
+The double forward-slash sequence `//` will mark all text until a newline as a comment
 
+The sequence `/*` is used to declare the start of the comment block and the sequence `*/` is used to declare the end
+of a multi-line comment. 
