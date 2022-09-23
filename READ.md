@@ -32,4 +32,5 @@ int main()
 Hello World!
 
 ```
+You dont need to `return 0;` due to the compiler doing it for you most of the time
 
