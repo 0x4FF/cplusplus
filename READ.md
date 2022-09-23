@@ -91,7 +91,7 @@ After the code has been preprocessed the compiler takes the ouput data and goes 
 How to compile:
 
 ```
-gcc <filename>.cpp -o <outputname>
+gcc <filename>.cpp -o <outputname> or g++ <filename>.cpp -o <outputname>
 ```
 
 1. Lexical analysis; the process of converting a sequence of characters into a sequence of tokens
