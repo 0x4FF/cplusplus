@@ -73,3 +73,13 @@ As with all programming languages, comments provide several benefits:
     Placement of copyright/licenses, project notes, special thanks, contributor credits, etc. directly in the source code.
 
 ***COMPILATION***
+
+A compiler is a program that translates code from a programming language into another form which is (more)
+directly executable for a computer. Using a compiler to translate code is called compilation.
+
+The compiler has Four Main steps:
+
+*Preprocessing*
+
+If you included a header file such as `#include <stdio.h>`, it will look for the `stdio.h` file and copy the header file into the source code file.
+The preprocessor also generates macro code and replaces symbolic constants defined using `#define` with their values.
