@@ -23,7 +23,7 @@ The `int` of this function is the return type of the function, so when the code 
 #include <iostream>
 int main()
 {
-  std::cout << "Hello World!" << std::endl;
+  std::cout << "Hello World!" << std::endl; // you can also remove std::endl;
   return 0;
 }
 ```
