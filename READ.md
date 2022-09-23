@@ -102,7 +102,7 @@ gcc <filename>.cpp -o <outputname>
 ```
 
 *Assembling & Linking*
-The assembler will convert the assembly code into pure binary code or machine code (zeros and ones). This code is also known as object code.
+The assembler will convert the assembly code generated after compiling into pure binary code or machine code (zeros and ones). This code is also known as object code.
 
 The Linker will then link the object code from multiple objects into one
 
