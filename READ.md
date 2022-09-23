@@ -105,7 +105,7 @@ gcc <filename>.cpp -o <outputname>
 The assembler will convert the assembly code generated after compiling into pure binary code or machine code (zeros and ones). This code is also known as object code.
 
 The Linker will then link the object code from multiple objects into one
-
+```
 *Execution*
 
 You then run the binary file; `./<filename>` `<filename>.exe` in the terminal
