@@ -63,4 +63,10 @@ a warning on some compilers.
 The double forward-slash sequence `//` will mark all text until a newline as a comment
 
 The sequence `/*` is used to declare the start of the comment block and the sequence `*/` is used to declare the end
-of a multi-line comment. 
+of a multi-line comment.
+
+As with all programming languages, comments provide several benefits:
+    Explicit documentation of code to make it easier to read/maintain
+    Explanation of the purpose and functionality of code
+    Details on the history or reasoning behind the code
+    Placement of copyright/licenses, project notes, special thanks, contributor credits, etc. directly in the source code.
