@@ -99,9 +99,10 @@ gcc <filename>.cpp -o <outputname> or g++ <filename>.cpp -o <outputname>
 2. Parsing; the process of analyzing a string of symbols, either in natural language, computer languages or data structures, kinda like grammar for programming languages
 
 3. Semantic analysis; the process of gathering necessary semantic information from the source code and type checking
-```
+
 
 *Assembling & Linking*
+```
 The assembler will convert the assembly code generated after compiling into pure binary code or machine code (zeros and ones). This code is also known as object code.
 
 The Linker will then link the object code from multiple objects into one
