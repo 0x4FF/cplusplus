@@ -66,6 +66,7 @@ The sequence `/*` is used to declare the start of the comment block and the sequ
 of a multi-line comment.
 
 As with all programming languages, comments provide several benefits:
+
     Explicit documentation of code to make it easier to read/maintain
     Explanation of the purpose and functionality of code
     Details on the history or reasoning behind the code
